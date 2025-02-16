@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Orb
   - Coin
+  - HUD
   layers:
   - Default
   - TransparentFX
